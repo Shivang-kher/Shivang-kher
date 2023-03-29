@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivang Kher</h1>
 <h3 align="center">A full stack developer and Cybersecurity enthusiast</h3>
-
 <img align="right" alt="hacking" width="400" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/media/2ec847ffdf4582eed352653cb2223303.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivang-kher&label=Profile%20views&color=0e75b6&style=flat" alt="shivang-kher" /> </p>
